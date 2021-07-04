@@ -1,0 +1,23 @@
+{
+  "name": "nice-more-dice",
+  "title": "Nice More Dice",
+  "description": "Adds a bunch of dice textures and a few dice faces.",
+  "author": "LyncsCwtsh",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.8",
+  "scripts": [
+        "Scripts/nice-more-dice.json"
+  ],
+  "url": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice",
+  "manifest": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice/main/module.json",
+  "download": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice/main.zip",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars.githubusercontent.com/u/71156956?s=400&u=74a2b77cd1e967874fe0c8256be48f5104c28016&v=4"
+    }
+  ]
+}
+
+
