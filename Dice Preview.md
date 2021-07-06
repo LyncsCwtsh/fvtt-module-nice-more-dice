@@ -1,9 +1,9 @@
 # Dice Faces
 
 ![preview](Images/CelticLynx.jpg?raw=true)
-![preview](Images/Flamestalker.jpg?raw=true)
-![preview](Images/Purplemagic.jpg?raw=true)
-![preview](Images/Maze.jpg?raw=true)
+![preview](Images/flamestalker.jpg?raw=true)
+![preview](Images/purplemagic.jpg?raw=true)
+![preview](Images/maze.jpg?raw=true)
 ![preview](Images/Grifter.jpg?raw=true)
 ![preview](Images/oofyeahdragonno.jpg?raw=true)
 ![preview](Images/GMDice.jpg?raw=true)
