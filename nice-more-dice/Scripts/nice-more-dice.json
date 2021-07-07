@@ -848,7 +848,7 @@ dice3d.addDicePreset({
     system:"FlameStalker"
   });
 
-dice3d.addSystem({id:"Grifter",name:"⁂ Grifter"},false);
+dice3d.addSystem({id:"Grifter",name:"⁂ Grifter (Set)"},false);
 
   dice3d.addDicePreset({
     type:"dc",
