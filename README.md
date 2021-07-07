@@ -18,3 +18,5 @@ I definitely plan on adding more dice faces when inspiration strikes and I have 
 If you have any feedback, feel free to throw a dm in discord at me (LyncsCwtsh#7116). Doesn’t matter if it’s about requests, errors in the code or other dice related musings. Getting feedback also encourages me to figure out how Github works and wrestle with code instead of keeping creations private.
 Caveat to requests, please check if [the Rollsmith](https://therollsmith.com) already has something you would like to use. I enjoy creating things others can use and enjoy as well, but I’m not going to replicate anything they have created (they do awesome stuff and I’m looking forward to what they will add next).
 
+### License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
