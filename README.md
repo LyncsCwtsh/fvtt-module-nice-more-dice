@@ -1,5 +1,7 @@
 # Nice more Dice
 
+![preview](Images/cover.jpg?raw=true)
+
 **Be aware:** You do need to install [Dice so Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) for this module to work. This module is pretty much more dice skins and overlays which only work with the awesome module that adds 3d animated dice.
 
 I encourage testing different combinations of textures and colours out, unless one of the complete dice faces speaks to you. Some textures jump into your face, while others are a lot more subtle.
