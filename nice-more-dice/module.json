@@ -10,7 +10,7 @@
         "Scripts/nice-more-dice.json"
   ],
   "url": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice",
-  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
+  "manifest": "https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/nice-more-dice/module.json",
   "download": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice/module.zip"
 }
 
