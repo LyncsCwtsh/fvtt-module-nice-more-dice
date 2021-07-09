@@ -10,8 +10,8 @@
         "Scripts/nice-more-dice.json"
   ],
   "url": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice",
-  "manifest": "https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/nice-more-dice/module.json",
-  "download": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice/module.zip"
+  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
+  "download": "https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/5dbc4da3ca47642453ff6c389ece9e5a906b2d0e/module.zip"
 }
 
 
