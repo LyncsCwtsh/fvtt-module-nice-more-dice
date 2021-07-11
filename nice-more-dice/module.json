@@ -6,6 +6,12 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.8.8",
+  "dependencies": [
+        {
+            "type": "module",
+            "name": "dice-so-nice"
+        }
+    ],
   "scripts": [
         "Scripts/nice-more-dice.json"
   ],
