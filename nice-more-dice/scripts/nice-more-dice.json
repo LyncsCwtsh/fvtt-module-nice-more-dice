@@ -3,20 +3,20 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 	dice3d.addTexture("colourdifference", {
 	    name: "⁂ Colour Dodge",
 	    composite: "difference",
-	    source: "modules/nice-more-dice/Textures/bark.webp",
-        bump: "modules/nice-more-dice/Textures/barkb.webp"
+	    source: "modules/nice-more-dice/textures/bark.webp",
+        bump: "modules/nice-more-dice/textures/barkb.webp"
 	});
 
     dice3d.addTexture("Blood", {
 	    name: "⁂ Black Blood",
 	    composite: "multiply",
-	    source: "modules/nice-more-dice/Textures/bwblood.webp"
+	    source: "modules/nice-more-dice/textures/bwblood.webp"
 	});
 
     dice3d.addTexture("cosmic", {
 	    name: "⁂ Cosmic",
 	    composite: "multiply",
-	    source: "modules/nice-more-dice/Textures/cosmic.webp"
+	    source: "modules/nice-more-dice/textures/cosmic.webp"
 	});
 
  	dice3d.addTexture("Claws", {
