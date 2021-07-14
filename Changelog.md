@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3
+- missed another (hopefully the last) capitalization error
+
 ## 1.0.2
 - missed one capitalization gdi
 
