@@ -2,7 +2,9 @@
 
 ![preview](Images/CelticLynx.jpg?raw=true)
 ![preview](Images/flamestalker.jpg?raw=true)
+![preview](Images/romansuperiority.jpg?raw=true)
 ![preview](Images/purplemagic.jpg?raw=true)
+![preview](Images/planetary.jpg?raw=true)
 ![preview](Images/maze.jpg?raw=true)
 ![preview](Images/Grifter.jpg?raw=true)
 ![preview](Images/oofyeahdragonno.jpg?raw=true)
