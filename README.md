@@ -12,7 +12,7 @@ Everything this module adds is marked with an asterism (⁂) so you can discern 
 You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/Dice%20Preview.md).
 
 ### Future Plans
-I definitely plan on adding more dice faces when inspiration strikes and I have the time. Currently, I only have ‘Warhammer inspired set’ on my list of possible to-dos.
+I definitely plan on adding more dice faces when inspiration strikes and I have the time. 
 
 ### Feedback
 If you have any feedback, feel free to throw a dm in discord at me (LyncsCwtsh#7116). Doesn’t matter if it’s about requests, errors in the code or other dice related musings. Getting feedback also encourages me to figure out how Github works and wrestle with code instead of keeping creations private.
