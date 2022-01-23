@@ -6,6 +6,9 @@
 - NEW: Roman Superiority Texture - this is literally just for the d4 of the set, but looks pretty neat on plain dice, too
 - v9 compatibility added to get rid of pesky warnings
 
+![preview](Images/planetaryb.png?raw=true)
+![preview](Images/romanb.png?raw=true)
+
 ## 1.0.3
 - missed another (hopefully the last) capitalization error
 
