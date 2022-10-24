@@ -12,6 +12,12 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 	    composite: "multiply",
 	    source: "modules/nice-more-dice/textures/bwblood.webp"
 	});
+	
+    dice3d.addTexture("ccorn", {
+	    name: "⁂ Candy Corn",
+	    composite: "multiply",
+	    source: "modules/nice-more-dice/textures/candycorn.webp"
+	});	
 
     dice3d.addTexture("cosmic", {
 	    name: "⁂ Cosmic",
@@ -1430,4 +1436,244 @@ dice3d.addDicePreset({
     ],
     system:"GMDice"
   });
+
+dice3d.addSystem({id:"Hallo",name:"⁂ Halloween (Set)"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/dfm.webp',
+      'modules/nice-more-dice/faces/halloween/df.webp',
+      'modules/nice-more-dice/faces/halloween/dfp.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/dfmb.webp',
+      'modules/nice-more-dice/faces/halloween/dfb.webp',
+      'modules/nice-more-dice/faces/halloween/dfpb.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d2",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d2-1.webp',
+      'modules/nice-more-dice/faces/halloween/d2-2.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d2-1b.webp',
+      'modules/nice-more-dice/faces/halloween/d2-2b.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"dc",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/dc-1.webp',
+      'modules/nice-more-dice/faces/halloween/dc-2.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/dc-1b.webp',
+      'modules/nice-more-dice/faces/halloween/dc-2b.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d4",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d4-1.webp',
+      'modules/nice-more-dice/faces/halloween/d4-2.webp',
+      'modules/nice-more-dice/faces/halloween/d4-3.webp',
+      'modules/nice-more-dice/faces/halloween/d4-4.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d6",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d6-1.webp',
+      'modules/nice-more-dice/faces/halloween/d6-2.webp',
+      'modules/nice-more-dice/faces/halloween/d6-3.webp',
+      'modules/nice-more-dice/faces/halloween/d6-4.webp',
+      'modules/nice-more-dice/faces/halloween/d6-5.webp',
+      'modules/nice-more-dice/faces/halloween/d6-6.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d6-1b.webp',
+      'modules/nice-more-dice/faces/halloween/d6-2b.webp',
+      'modules/nice-more-dice/faces/halloween/d6-3b.webp',
+      'modules/nice-more-dice/faces/halloween/d6-4b.webp',
+      'modules/nice-more-dice/faces/halloween/d6-5b.webp',
+      'modules/nice-more-dice/faces/halloween/d6-6b.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d8",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d8-1.webp',
+      'modules/nice-more-dice/faces/halloween/d8-2.webp',
+      'modules/nice-more-dice/faces/halloween/d8-3.webp',
+      'modules/nice-more-dice/faces/halloween/d8-4.webp',
+      'modules/nice-more-dice/faces/halloween/d8-5.webp',
+      'modules/nice-more-dice/faces/halloween/d8-6.webp',
+      'modules/nice-more-dice/faces/halloween/d8-7.webp',
+      'modules/nice-more-dice/faces/halloween/d8-8.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d8-1b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-2b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-3b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-4b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-5b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-6b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-7b.webp',
+      'modules/nice-more-dice/faces/halloween/d8-8b.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d10",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d10-1.webp',
+      'modules/nice-more-dice/faces/halloween/d10-2.webp',
+      'modules/nice-more-dice/faces/halloween/d10-3.webp',
+      'modules/nice-more-dice/faces/halloween/d10-4.webp',
+      'modules/nice-more-dice/faces/halloween/d10-5.webp',
+      'modules/nice-more-dice/faces/halloween/d10-6.webp',
+      'modules/nice-more-dice/faces/halloween/d10-7.webp',
+      'modules/nice-more-dice/faces/halloween/d10-8.webp',
+      'modules/nice-more-dice/faces/halloween/d10-9.webp',
+      'modules/nice-more-dice/faces/halloween/d10-10.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d10-1b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-2b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-3b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-4b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-5b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-6b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-7b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-8b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-9b.webp',
+      'modules/nice-more-dice/faces/halloween/d10-10b.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d12",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d12-1.webp',
+      'modules/nice-more-dice/faces/halloween/d12-2.webp',
+      'modules/nice-more-dice/faces/halloween/d12-3.webp',
+      'modules/nice-more-dice/faces/halloween/d12-4.webp',
+      'modules/nice-more-dice/faces/halloween/d12-5.webp',
+      'modules/nice-more-dice/faces/halloween/d12-6.webp',
+      'modules/nice-more-dice/faces/halloween/d12-7.webp',
+      'modules/nice-more-dice/faces/halloween/d12-8.webp',
+      'modules/nice-more-dice/faces/halloween/d12-9.webp',
+      'modules/nice-more-dice/faces/halloween/d12-10.webp',
+      'modules/nice-more-dice/faces/halloween/d12-11.webp',
+      'modules/nice-more-dice/faces/halloween/d12-12.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d12-1b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-2b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-3b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-4b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-5b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-6b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-7b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-8b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-9b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-10b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-11b.webp',
+      'modules/nice-more-dice/faces/halloween/d12-12b.webp'
+	 ],
+      system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d100",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d100-10.webp',
+      'modules/nice-more-dice/faces/halloween/d100-20.webp',
+      'modules/nice-more-dice/faces/halloween/d100-30.webp',
+      'modules/nice-more-dice/faces/halloween/d100-40.webp',
+      'modules/nice-more-dice/faces/halloween/d100-50.webp',
+      'modules/nice-more-dice/faces/halloween/d100-60.webp',
+      'modules/nice-more-dice/faces/halloween/d100-70.webp',
+      'modules/nice-more-dice/faces/halloween/d100-80.webp',
+      'modules/nice-more-dice/faces/halloween/d100-90.webp',
+      'modules/nice-more-dice/faces/halloween/d100-100.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d100-10b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-20b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-30b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-40b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-50b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-60b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-70b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-80b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-90b.webp',
+      'modules/nice-more-dice/faces/halloween/d100-100b.webp'
+    ],
+	system:"Hallo"
+  });
+
+  dice3d.addDicePreset({
+    type:"d20",
+    labels:[
+      'modules/nice-more-dice/faces/halloween/d20-1.webp',
+      'modules/nice-more-dice/faces/halloween/d20-2.webp',
+      'modules/nice-more-dice/faces/halloween/d20-3.webp',
+      'modules/nice-more-dice/faces/halloween/d20-4.webp',
+      'modules/nice-more-dice/faces/halloween/d20-5.webp',
+      'modules/nice-more-dice/faces/halloween/d20-6.webp',
+      'modules/nice-more-dice/faces/halloween/d20-7.webp',
+      'modules/nice-more-dice/faces/halloween/d20-8.webp',
+      'modules/nice-more-dice/faces/halloween/d20-9.webp',
+      'modules/nice-more-dice/faces/halloween/d20-10.webp',
+      'modules/nice-more-dice/faces/halloween/d20-11.webp',
+      'modules/nice-more-dice/faces/halloween/d20-12.webp',
+      'modules/nice-more-dice/faces/halloween/d20-13.webp',
+      'modules/nice-more-dice/faces/halloween/d20-14.webp',
+      'modules/nice-more-dice/faces/halloween/d20-15.webp',
+      'modules/nice-more-dice/faces/halloween/d20-16.webp',
+      'modules/nice-more-dice/faces/halloween/d20-17.webp',
+      'modules/nice-more-dice/faces/halloween/d20-18.webp',
+      'modules/nice-more-dice/faces/halloween/d20-19.webp',
+      'modules/nice-more-dice/faces/halloween/d20-20.webp'
+    ],
+    bumpMaps:[
+      'modules/nice-more-dice/faces/halloween/d20-1b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-2b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-3b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-4b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-5b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-6b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-7b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-8b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-9b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-10b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-11b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-12b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-13b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-14b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-15b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-16b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-17b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-18b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-19b.webp',
+      'modules/nice-more-dice/faces/halloween/d20-20b.webp'
+    ],
+    system:"Hallo"	
+  });	
 });
