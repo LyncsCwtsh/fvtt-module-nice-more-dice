@@ -11,6 +11,7 @@
 ![preview](Images/GMDice.jpg?raw=true)
 ![preview](Images/Hex.jpg?raw=true)
 ![preview](Images/scriblemotions.jpg?raw=true)
+![preview](Images/halloweenpreview.jpg?raw=true)
 
 # Textures
 
