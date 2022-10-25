@@ -5,6 +5,8 @@
 - NEW: Candy Corn Texture - non-edible, but colourful
 - v10 compatibility added to get rid of even peskier warnings
 
+![preview](Images/halloweenpreview.jpg?raw=true)
+
 ## 1.1.0
 - NEW: Roman Superiority Dice Set - Roman numerals chiseled into white Marble with a splash of colour
 - NEW: Planetary Dice Set - Futuristic font with circles and planets on a canvas of twinkling stars
