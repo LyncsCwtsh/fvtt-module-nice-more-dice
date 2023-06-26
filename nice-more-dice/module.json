@@ -17,10 +17,9 @@
   "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
   "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/module.zip",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "0.7.9",
-    "verified": 10,
+    "verified": 11,
     "maximum": 11
   }
 }
