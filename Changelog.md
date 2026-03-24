@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+- v13 compatibility added
+- added bump maps to Flamestalker set which now looks even shinier
+
 ## 1.2.0
 - NEW: Halloween Dice Set - all the spookiness you could ever want
 - NEW: Candy Corn Texture - non-edible, but colourful
