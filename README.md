@@ -12,7 +12,8 @@ Everything this module adds is marked with an asterism (⁂) so you can discern 
 You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/Dice%20Preview.md).
 
 ### Future Plans
-I definitely plan on adding more dice faces when inspiration strikes and I have the time. 
+I definitely plan on adding more dice faces when inspiration strikes and I have the time to make a *full* set.
+I'm currently working on Hope and Fear specific dice for Daggerheart, since that is the system I am currently running.
 
 ### Feedback
 If you have any feedback, feel free to throw a dm in discord at me (LyncsCwtsh#7116). Doesn’t matter if it’s about requests, errors in the code or other dice related musings. Getting feedback also encourages me to figure out how Github works and wrestle with code instead of keeping creations private.
