@@ -12,10 +12,13 @@ Everything this module adds is marked with an asterism (⁂) so you can discern 
 You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/Dice%20Preview.md).
 
 ### Future Plans
-I definitely plan on adding more dice faces when inspiration strikes and I have the time. 
+I plan on adding more dice faces when inspiration strikes and I have the time to make a *full* set.
+I'm working on Hope and Fear specific dice for Daggerheart, since that is the system I am currently running. Those dice will be in a different set once I've put together more than two designs.
 
 ### Feedback
-If you have any feedback, feel free to throw a dm in discord at me (LyncsCwtsh#7116). Doesn’t matter if it’s about requests, errors in the code or other dice related musings. Getting feedback also encourages me to figure out how Github works and wrestle with code instead of keeping creations private.
+If you have any feedback, feel free to dm me directly in discord (lyncscwtsh, no friend request necessary if you are part of the Foundry server).
+Doesn’t matter if it’s about requests, errors in the code or other dice related musings. Getting feedback also encourages me to figure out how Github works and wrestle with code instead of keeping creations private.
+
 Caveat to requests, please check if [the Rollsmith](https://therollsmith.com) already has something you would like to use. I enjoy creating things others can use and enjoy as well, but I’m not going to replicate anything they have created (they do awesome stuff and I’m looking forward to what they will add next).
 
 ### License
