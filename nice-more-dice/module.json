@@ -2,7 +2,7 @@
   "id": "nice-more-dice",
   "title": "Nice more Dice",
   "description": "Adds a bunch of dice textures and dice faces to DsN.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "readme": "https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/README.md",
   "changelog": "https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice/blob/main/Changelog.md",
   "authors": [
@@ -19,6 +19,6 @@
   "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/module.zip",
   "compatibility": {
     "minimum": "0.7.9",
-    "verified": "13"
+    "verified": "14"
   }
 }

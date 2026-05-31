@@ -3,7 +3,11 @@ Textures:
 Bark: Bruno Ramos on Unsplash
 BwBlood: Max Kleinen on Unsplash
 Claws: Brushes used are from brusheezy.com
-Gears: Put together with icons from game-icons.net
+Gears: Put together with icons from game-icons.net:
+- [two gears](https://game-icons.net/1x1/lorc/gears.html)
+- [fancier gear](https://game-icons.net/1x1/darkzaitzev/big-gear.html)
+- [fancier gear 2](https://game-icons.net/1x1/lorc/pokecog.html)
+- [cog](https://game-icons.net/1x1/lorc/cog.html)
 Lavash: Pawel Czerwinski on Unsplash
 Orbs: Pawel Czerwinski on Unsplash
 Paws: Brushes used are by obsidiandawn.com
@@ -15,10 +19,74 @@ Roman Superiority Marble: Susan Wilkinson on Unsplash
 
 Dice Sets:
 Celtic Lynx: Brushes used are the Celtic Border Brushes by Nathies-stock on Deviantart
-Flamestalker: Put together with icons from game-icons.net
-GM Dice: Skulls from game-icons.net
-Maze: Bull Icon from game-icons.net
-Grifter: Icons are from game-icons.net
+Flamestalker: Put together with icons from game-icons.net:
+- [sunny fire](https://game-icons.net/1x1/sbed/fireflake.html)
+- [flame](https://game-icons.net/1x1/sbed/fire.html)
+- [book on fire](https://game-icons.net/1x1/lorc/burning-book.html) modified to work with shadowy figure
+- [knife shadow figure](https://game-icons.net/1x1/lorc/cloak-dagger.html) modified to work with book on fire
+- [bubble flame](https://game-icons.net/1x1/lorc/flaming-sheet.html)
+- [grassy flame](https://game-icons.net/1x1/lorc/fire-wave.html)
+- [swirly flame](https://game-icons.net/1x1/lorc/flame-spin.html)
+- [wavey flame](https://game-icons.net/1x1/lorc/flamed-leaf.html)
+- [elegant flame](https://game-icons.net/1x1/lorc/fluffy-flame.html)
+- [fire bolt](https://game-icons.net/1x1/lorc/plasma-bolt.html)
+- [F clef](https://game-icons.net/1x1/delapouite/f-clef.html)
+- [G clef](https://game-icons.net/1x1/delapouite/g-clef.html)
+- [basic music notes](https://game-icons.net/1x1/delapouite/musical-notes.html) modified to be empty
+- [fancy music note](https://game-icons.net/1x1/lorc/music-spell.html) removed circle
+- [double music note](https://game-icons.net/1x1/lorc/double-quaver.html)
+- [hollowed blade](https://game-icons.net/1x1/lorc/energy-sword.html)
+- [tiny knives](https://game-icons.net/1x1/lorc/assassin-pocket.html) adjusted to be single
+- [flying dagger](https://game-icons.net/1x1/lorc/flying-dagger.html)
+- [broken sword](https://game-icons.net/1x1/lorc/shattered-sword.html)
+- [flamey sword](https://game-icons.net/1x1/lorc/spiral-thrust.html)
+- [double sided scimitar](https://game-icons.net/1x1/delapouite/bat-leth.html)
+- [explosion](https://game-icons.net/1x1/lorc/spiky-eclipse.html)
+- [bow](https://game-icons.net/1x1/delapouite/bow-arrow.html) removed the arrow
+- [arrow](https://game-icons.net/1x1/lorc/arrow-cluster.html) removed other arrows
+- [slash](https://game-icons.net/1x1/lorc/electric-whip.html)
+- [lightning](https://game-icons.net/1x1/lorc/focused-lightning.html)
+
+GM Dice: Skulls from game-icons.net:
+- [happy skull](https://game-icons.net/1x1/lorc/morbid-humour.html
+- [demon skull](https://game-icons.net/1x1/lorc/daemon-skull.html)
+- [basic skull](https://game-icons.net/1x1/sbed/death-skull.html)
+
+Maze: [Bull Icon from game-icons.net](https://game-icons.net/1x1/lorc/bull.html)
+Grifter: Icons are from game-icons.net:
+- [lockpicks](https://game-icons.net/1x1/delapouite/lockpicks.html) singled out
+- [keys](https://game-icons.net/1x1/delapouite/keyring.html)
+- [skull](https://game-icons.net/1x1/lorc/daemon-skull.html)
+
 Planetary: Daniel Olah, Nasa, Neven Krcmarek, Solen Feyissa, the New York Public Library & Yu Katoon on Unsplash
 Roman Superiority: Raimond Klavins, Gioele Fazzeri and Susan Wilkinson on Unsplash
-Halloween: Icons are from game-icons.net
+Halloween: Icons are from game-icons.net:
+- [witch](https://game-icons.net/1x1/lorc/witch-flight.html)
+- [cauldron](https://game-icons.net/1x1/darkzaitzev/cauldron.html) modified drip
+- [onion](https://game-icons.net/1x1/lorc/bulb.html)
+- [square bottle](https://game-icons.net/1x1/lorc/square-bottle.html)
+- [round bottle](https://game-icons.net/1x1/lorc/potion-ball.html)
+- [round bottle with bubbles](https://game-icons.net/1x1/caro-asercion/round-potion.html)
+- [shadow bottle](https://game-icons.net/1x1/delapouite/bottled-shadow.html)
+- [face bottle](https://game-icons.net/1x1/starseeker/potion-of-madness.html)
+- [tree branch](https://game-icons.net/1x1/lorc/tree-branch.html)
+- [garlic](https://game-icons.net/1x1/delapouite/garlic.html)
+- [elder berry](https://game-icons.net/1x1/lorc/elderberry.html)
+- [cat](https://game-icons.net/1x1/lorc/hollow-cat.html)
+- [spark spirit](https://game-icons.net/1x1/lorc/spark-spirit.html)
+- [droopy spirit](https://game-icons.net/1x1/lorc/gooey-daemon.html)
+- [basic ghost](https://game-icons.net/1x1/lorc/spectre.html)
+- [unhappy ghost](https://game-icons.net/1x1/lorc/unfriendly-fire.html)
+- [spider web](https://game-icons.net/1x1/lorc/spider-web.html)
+- [spider face](https://game-icons.net/1x1/carl-olsen/spider-face.html)
+- [graves](https://game-icons.net/1x1/delapouite/graveyard.html) picked favourite graves
+- [skeleton hand](https://game-icons.net/1x1/skoll/raise-skeleton.html)
+- [moon with bats](https://game-icons.net/1x1/delapouite/moon-bats.html)
+- [ribcage](https://game-icons.net/1x1/lorc/ribcage.html)
+- [severed hand](https://game-icons.net/1x1/darkzaitzev/severed-hand.html)
+- [wound](https://game-icons.net/1x1/lorc/ragged-wound.html)
+- [blood drips](https://game-icons.net/1x1/lorc/dripping-blade.html) picked best blood parts
+- [bone](https://game-icons.net/1x1/lorc/crossed-bones.html) picked better bone
+- [cracked bone](https://game-icons.net/1x1/lorc/broken-bone.html)
+
+Icons from game-icons.net are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0
+- v14 compatibility added
+- fixed lynx dice bump on coin
+
 ## 1.3.0
 - v13 compatibility added
 - added bump maps to Flamestalker set which now looks even shinier
