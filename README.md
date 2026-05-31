@@ -22,8 +22,8 @@ Doesn’t matter if it’s about requests, errors in the code or other dice rela
 Caveat to requests, please check if [the Rollsmith](https://therollsmith.com) already has something you would like to use. I enjoy creating things others can use and enjoy as well, but I’m not going to replicate anything they have created (they do awesome stuff and I’m looking forward to what they will add next).
 
 ### Want more of my dice?
-- [d12 specific designs, primarily for Daggerheart](https://github.com/LyncsCwtsh/fvtt-module-daggerdice)
-- [The more humble, Fudge/Fate die designs](https://github.com/LyncsCwtsh/fvtt-module-fudgeoplenty)
+- [d12 specific designs, primarily for Daggerheart](https://foundryvtt.com/packages/daggerdice)
+- [The more humble, Fudge/Fate die designs](https://foundryvtt.com/packages/fudgeoplenty)
 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
