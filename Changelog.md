@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4.1
+- JSON/JS fix for Chrome
+
 ## 1.4.0
 - v14 compatibility added
 - fixed lynx dice bump on coin
