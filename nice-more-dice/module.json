@@ -12,7 +12,7 @@
     }
   ],
   "scripts": [
-    "scripts/nice-more-dice.json"
+    "scripts/nice-more-dice.js"
   ],
   "url": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice",
   "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
