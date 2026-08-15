@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4.2
+- capitalization fix for Celtic Lynx Set
+
 ## 1.4.1
 - JSON/JS fix for Chrome
 
